@@ -4,7 +4,7 @@
 * Chen, Ysabelle Chloe Tan
 
 
-**Heroku Link**: 
+**Heroku Link**: https://stormy-caverns-88085.herokuapp.com/home
 # How to Use This Web Application
 
 ## Setting Up the Application
